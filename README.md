@@ -63,11 +63,13 @@ The `MedGemmaSimilarityExplainer` takes over. It loads `google/medgemma-4b-it` a
 **Visual Plots:**
 <p align="center">
   <img src="CVC_ClinicDB.png" width="45%" style="margin-right: 10px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="CVC_ColonDB.png" width="45%" />
 </p>
 
 <p align="center">
   <img src="ETIS_LaribPolypDB.png" width="45%" style="margin-right: 10px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Kvasir-SEG.png" width="45%" />
 </p>
 
