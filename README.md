@@ -1,0 +1,1 @@
+# Dataset-Retrieval-of-Colonoscopy-Polyp-Images-Using-Medical-Foundation-Models
