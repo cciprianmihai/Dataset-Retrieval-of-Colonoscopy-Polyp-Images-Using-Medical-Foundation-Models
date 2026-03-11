@@ -68,9 +68,9 @@ The `MedGemmaSimilarityExplainer` takes over. It loads `google/medgemma-4b-it` a
 </p>
 
 <p align="center">
-  <img src="CVC_ClinicDB.png" width="45%" style="margin-right: 10px;" />
+  <img src="CVC_ClinicDB.png" width="48%" style="margin-right: 10px;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="CVC_ColonDB.png" width="45%" />
+  <img src="CVC_ColonDB.png" width="48%" />
 </p>
 
 <p align="center">
@@ -80,9 +80,9 @@ The `MedGemmaSimilarityExplainer` takes over. It loads `google/medgemma-4b-it` a
 </p>
 
 <p align="center">
-  <img src="ETIS_LaribPolypDB.png" width="45%" style="margin-right: 10px;" />
+  <img src="ETIS_LaribPolypDB.png" width="48%" style="margin-right: 10px;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Kvasir-SEG.png" width="45%" />
+  <img src="Kvasir-SEG.png" width="48%" />
 </p>
 
 ## Disclaimer
