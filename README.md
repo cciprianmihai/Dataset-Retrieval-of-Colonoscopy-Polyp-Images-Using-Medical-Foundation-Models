@@ -23,6 +23,7 @@ The script is configured to work with standard gastrointestinal image datasets. 
 * CVC-ClinicDB
 * CVC-ColonDB
 * ETIS-LaribPolypDB
+  
 The datasets can be found here: <a href="https://drive.google.com/drive/folders/1kg9XImzrd9PpTtleQSz6l8uq82LV1sjV?usp=sharing" target="_blank"> datasets download </a>.
 
 ### Installation
