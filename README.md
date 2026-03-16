@@ -87,6 +87,7 @@ The `MedGemmaSimilarityExplainer` takes over. It loads `google/medgemma-4b-it` a
   <img src="Kvasir-SEG.png" width="48%" />
 </p>
 
+Embeddings for the CVC-ClinicDB: Dataset image embeddings, Query image embedding, Retrieved image embeddings:
 <p align="center">
   <img src="Embeddings.png" width="70%" />
 </p>
