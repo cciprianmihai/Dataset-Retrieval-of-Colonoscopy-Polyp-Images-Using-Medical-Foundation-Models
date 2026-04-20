@@ -99,19 +99,19 @@ Embeddings for the CVC-ClinicDB: Dataset image embeddings, Query image embedding
 </p>
 
 <p align="center">
-  <img src="healhy_1.png" width="48%" style="margin-right: 10px;" />
+  <img src="healthy_1.png" width="48%" style="margin-right: 10px;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="unhealhy_1.png" width="48%" />
+  <img src="unhealthy_1.png" width="48%" />
 </p>
 
 Embeddings for the CP_CHILD healthy: Dataset image embeddings, Query image embedding, Retrieved image embeddings:
 <p align="center">
-  <img src="healhy_2.png" width="70%" />
+  <img src="healthy_2.png" width="70%" />
 </p>
 
 Embeddings for the CP_CHILD unhealthy: Dataset image embeddings, Query image embedding, Retrieved image embeddings:
 <p align="center">
-  <img src="unhealhy_2.png" width="70%" />
+  <img src="unhealthy_2.png" width="70%" />
 </p>
 
 ## Disclaimer
